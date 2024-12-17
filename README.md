@@ -22,7 +22,7 @@ To ensure the code was both functional and secure, I conducted thorough testing 
 
 Resources, Tools, and Practices for Future Use:
 
-The tools and practices I employed—such as dependency checks, secure coding standards, and manual reviews are invaluable for future tasks. Tools like dependency scanners (Dependency Check) and version control platforms (GitHub) will streamline vulnerability identification and collaboration.
+The tools and practices I employed such as dependency checks, secure coding standards, and manual reviews are invaluable for future tasks. Tools like dependency scanners (Dependency Check) and version control platforms (GitHub) will streamline vulnerability identification and collaboration.
 
 Value for Future Employers:
 
